@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="PinCdde Verification Project">
+    <test verbose="2" preserve-order="true" name="ATB11xAPIAutomationPrograms">
+        <classes>
+            <class name="com.thetestingacademy.ex_03_TestNG_AllureReport.APITesting_Lab006_TestCase"/>
+            <class name="com.thetestingacademy.ex_03_TestNG_AllureReport.APITesting_Lab006_TestCase"/>
+            <class name="com.thetestingacademy.ex_04_RestAssured_HTTP_Methods.GET.APITesting_Lab008_TestCase_BDDStyle"/>
+            <class name="com.thetestingacademy.ex_04_RestAssured_HTTP_Methods.GET.APITesting_Lab009_TestCase_NonBDDStyle"/>
+            <class name="com.thetestingacademy.ex_04_RestAssured_HTTP_Methods.POST.APITesting_Lab011_TestCase_NonBDDStyle"/>
+            <class name="com.thetestingacademy.ex_04_RestAssured_HTTP_Methods.POST.APITesting_Lab0010_TestCase_BDDStyle"/>
+
+        </classes>
+    </test>
+</suite>
