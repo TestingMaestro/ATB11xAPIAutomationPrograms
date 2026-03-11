@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pincode Verification Project">
+    <test verbose="2" preserve-order="true" name="ATB11xAPIAutomationPrograms">
+        <parameter name = "flag" value ="false"/>
+        <groups>
+            <run>
+                <include name="smoke"/>
+                <include name="p1">
+                </include>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.thetestingacademy.ex_05_TestNGAnnotationsUsageandExamples.APITesting018TestNG_DependsOn"/>
+        </classes>
+    </test>
+</suite>

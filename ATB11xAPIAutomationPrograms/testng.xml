@@ -2,6 +2,8 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="PinCdde Verification Project">
     <test verbose="2" preserve-order="true" name="ATB11xAPIAutomationPrograms">
+
+
         <classes>
             <class name="com.thetestingacademy.ex_03_TestNG_AllureReport.APITesting_Lab006_TestCase"/>
             <class name="com.thetestingacademy.ex_03_TestNG_AllureReport.APITesting_Lab006_TestCase"/>
